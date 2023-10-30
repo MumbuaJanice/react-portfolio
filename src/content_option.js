@@ -1,23 +1,25 @@
-const logotext = "JOHN";
+const logotext = "JANICE";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Janice Mumbua",
+    description: "I’m Janice Mumbua. Your best option ",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Janice Mumbua",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Social Influencer ",
+        second: "Content Creater ",
+        third: "Project Manager ",
+        fourth: "DevOps Engineer",
+        fifth:"Software Developer"
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Hi there! I'm Janice Mumbua, a multi-faceted professional with a passion for creating impactful content and managing innovative projects. As a versatile individual, I wear multiple hats - from influencing social communities to crafting compelling narratives as a content creator. My background in project management enables me to navigate complex challenges, ensuring smooth operations and timely deliveries. Moreover, my proficiency in DevOps engineering and software development empowers me to bring cutting-edge solutions to life. Join me on this journey as we explore the realms of innovation and creativity together",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Hi there! I'm [Your Name], a multi-faceted professional with a passion for creating impactful content and managing innovative projects. As a versatile individual, I wear multiple hats - from influencing social communities to crafting compelling narratives as a content creator. My background in project management enables me to navigate complex challenges, ensuring smooth operations and timely deliveries. Moreover, my proficiency in DevOps engineering and software development empowers me to bring cutting-edge solutions to life. Join me on this journey as we explore the realms of innovation and creativity together.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
